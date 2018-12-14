@@ -1,0 +1,12 @@
+.header, .hero, .body, .footer{
+	margin: 10px 0;
+	background-color: #9BC3FA;
+}
+.box{
+	min-height: 100px;
+	background-color: #CDE1FB;
+	margin: 10px 0 10px;
+}
+.bg1{
+	background-color: #69A6DE;
+}
